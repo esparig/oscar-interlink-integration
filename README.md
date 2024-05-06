@@ -1,2 +1,26 @@
 # Bridging Cloud and HPC for Scalable Event-driven Processing of AI Workloads
-In progress...
+
+Video DEMO: https://youtu.be/NoVCfSxwtX0?si=g2rPIWYpjk-04XVJ
+
+## Projects
+
+https://www.intertwin.eu/
+
+## Components
+
+https://oscar.grycap.net/
+
+https://intertwin-eu.github.io/dcnios/
+
+https://github.com/interTwin-eu/itwinai/
+
+https://www.dcache.org/
+
+## Organizations
+
+https://grycap.upv.es/
+
+https://www.pg.infn.it/
+
+https://home.cern/
+
