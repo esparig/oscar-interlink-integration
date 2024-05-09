@@ -10,15 +10,17 @@ https://www.intertwin.eu/
 
 ## Components
 
-https://oscar.grycap.net/
+OSCAR https://oscar.grycap.net/
 
-https://intertwin-eu.github.io/interLink/
+interLink https://intertwin-eu.github.io/interLink/
 
-https://intertwin-eu.github.io/dcnios/
+DCNiOS https://intertwin-eu.github.io/dcnios/
 
-https://github.com/interTwin-eu/itwinai/
+itwinai https://github.com/interTwin-eu/itwinai/
 
-https://www.dcache.org/
+dCache https://www.dcache.org/
+
+IM https://im.egi.eu/im-dashboard/
 
 ## Organizations
 
