@@ -1,6 +1,6 @@
 # Bridging Cloud and HPC for Scalable Event-driven Processing of AI Workloads
 
-[poster](poster.png)
+![poster](poster.png)
 
 Video DEMO: https://youtu.be/NoVCfSxwtX0?si=g2rPIWYpjk-04XVJ
 
